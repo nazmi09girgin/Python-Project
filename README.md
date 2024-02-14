@@ -1,4 +1,4 @@
-# Afet İhtiyaç Temin Sistemi
+# Afet İhtiyaçları Temin Sistemi
 Bu proje, afet durumlarında ihtiyaç sahipleri ile yardım sunmak isteyen bağışçıları bir araya getiren bir sistemdir. Kullanıcılar, sisteme kayıt olduktan sonra ihtiyaçlarına uygun kategorilerde taleplerde bulunabilir veya sisteme bağışta bulunabilirler.
 
 Projenin Temel Özellikleri:
